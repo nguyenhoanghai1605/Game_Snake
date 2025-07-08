@@ -1,4 +1,4 @@
-# Snake_game
+# Snake_Games
 
 import random
 import pygame
