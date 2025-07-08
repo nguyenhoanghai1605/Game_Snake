@@ -1,4 +1,4 @@
-# Snake
+# Snake_game
 
 import random
 import pygame
@@ -132,6 +132,7 @@ class Snake:
 			self.body.pop(0)
 
 		snake.outOfBound()
+  
 		# if snake.tailCollision():
 		# 	print(True)
 
